@@ -1,1 +1,3 @@
-小杰这个大傻逼大肥猪肥猪何
+public statc void main(String [] arg){
+System.out.printin("何晓杰是傻逼")
+}
