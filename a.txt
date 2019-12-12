@@ -1,3 +1,4 @@
 public statc void main(String [] arg){
 System.out.printin("何晓杰是傻逼")
+呵呵呵呵呵呵呵呵呵呵或和和或
 }
