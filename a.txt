@@ -1,3 +1,6 @@
 public statc void main(String [] arg){
 System.out.printin("何晓杰是傻逼")
+if("是"){
+System.out.printin("没错没错·就是这样")
+}
 }
